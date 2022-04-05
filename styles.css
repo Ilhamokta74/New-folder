@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* NAVBAR */
+.menu {
+    font-weight: bold;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+label {
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+    padding: 10px 50px  ;
+    float: left;
+}
+
+.menu ul {
+    margin: 0px;
+    padding: 5px;
+    padding-right: 50px;
+    background: none;
+    display: block;
+    float: right;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.menu ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    color: #ddd;
+}
+
+.menu ul li a:hover {
+    color: red;
+}
+/* AKHIR NAVBAR */
+
+/* DAFTAR MENU */
+main h1 {
+    text-align: center;
+    /* background-color: #aaa7a2; */
+}
+
+/* MAIN */
+/* article {
+margin: 500px;
+} */
+
+article div {
+    float: left;
+    margin: 10px 50px;
+}
+  
+/* FOOTER */
+footer {
+    text-align: center;
+    background-color: aqua;
+    /* font-size: 25px;
+    padding: 20px; */
+}
